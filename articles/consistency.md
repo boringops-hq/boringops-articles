@@ -1,9 +1,8 @@
 ---
 title: "Principle: Consistency"
 excerpt: "Consistency is the foundation of boring infrastructure. Predictability breeds trust, and trust enables speed."
-teaser: /assets/images/sensible_header.png
 header:
-  teaser: /assets/images/sensible_header.png
+  teaser: /assets/images/metronome.png
 tags: [consistency, infrastructure]
 layout: single
 ---

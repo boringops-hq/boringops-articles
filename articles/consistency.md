@@ -1,7 +1,7 @@
 ---
 title: "Principle: Consistency"
 layout: single
-description: "Consistency is the foundation of boring infrastructure. Predictability breeds trust, and trust enables speed."
+excerpt: "Consistency is the foundation of boring infrastructure. Predictability breeds trust, and trust enables speed."
 ---
 
 *Every deploy should be so dull you forget it happened.*

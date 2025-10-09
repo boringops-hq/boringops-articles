@@ -1,3 +1,13 @@
+---
+title: "BoringOps vs. DevOps, DevSecOps, and SRE: The Quiet Revolution"
+excerpt: "A marathon is not finished by counting steps but by conserving focus for the goal that matters: reaching the finish line."
+header:
+  teaser: /assets/images/metronome.png
+tags: [consistency, infrastructure]
+layout: single
+---
+
+
 # BoringOps vs. DevOps, DevSecOps, and SRE: The Quiet Revolution
 
 > A marathon is not finished by counting steps but by conserving focus for the goal that matters: reaching the finish line.

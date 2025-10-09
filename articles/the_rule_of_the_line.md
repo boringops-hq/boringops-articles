@@ -18,9 +18,7 @@ Boring is what happens when innovation grows up.
 
 Every technology, team, and system moves along this horizontal line. You can start anywhere, but you have to move through the stages in order. If you skip one, you’ll end up back in the friction stage.
 
-```
 Ignition → Friction → Calibration → Stabilization → Optimization → Boring
-```
 
 ### 1. Ignition: Curiosity Meets Chaos
 

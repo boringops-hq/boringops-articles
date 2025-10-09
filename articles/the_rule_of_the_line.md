@@ -9,7 +9,7 @@ layout: single
 
 > *“Boring isn’t the end of innovation. It’s what happens when innovation finally grows up.”*
 
-### From Exciting to Boring: The Line of Technological Maturity
+## From Exciting to Boring: The Line of Technological Maturity
 
 Every new system begins with excitement, the easy part before reality arrives. Excitement fades fast, and what begins as creative energy soon turns into chaos, bugs, and late-night alerts. At some point, the real work begins, turning that excitement into something that lasts.
 

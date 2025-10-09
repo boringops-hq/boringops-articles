@@ -7,7 +7,7 @@ tags: [boringops, consistency, infrastructure, process, maturity]
 layout: single
 ---
 
-**“Boring isn’t the end of innovation. It’s what happens when innovation finally grows up.”**
+> *“Boring isn’t the end of innovation. It’s what happens when innovation finally grows up.”*
 
 ### From Exciting to Boring: The Line of Technological Maturity
 
@@ -18,7 +18,7 @@ Boring is what happens when innovation grows up.
 
 Every technology, team, and system moves along this horizontal line. You can start anywhere, but you have to move through the stages in order. If you skip one, you’ll end up back in the friction stage.
 
-Ignition → Friction → Calibration → Stabilization → Optimization → Boring
+> Ignition → Friction → Calibration → Stabilization → Optimization → Boring
 
 ### 1. Ignition: Curiosity Meets Chaos
 

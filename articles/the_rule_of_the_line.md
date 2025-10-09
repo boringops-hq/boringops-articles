@@ -7,7 +7,7 @@ tags: [boringops, consistency, infrastructure, process, maturity]
 layout: single
 --------------
 
-> **“Boring isn’t the end of innovation. It’s what happens when innovation finally grows up.”**
+**“Boring isn’t the end of innovation. It’s what happens when innovation finally grows up.”**
 
 ### From Exciting to Boring: The Line of Technological Maturity
 

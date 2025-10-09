@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/metronome.png
 tags: [boringops, consistency, infrastructure, process, maturity]
 layout: single
---------------
+---
 
 **“Boring isn’t the end of innovation. It’s what happens when innovation finally grows up.”**
 
@@ -22,8 +22,6 @@ Every technology, team, and system moves along this horizontal line. You can sta
 Ignition → Friction → Calibration → Stabilization → Optimization → Boring
 ```
 
----
-
 ### 1. Ignition: Curiosity Meets Chaos
 
 Every good idea starts with a spark. A new tool, a proof of concept, or a half-broken demo that feels alive.
@@ -34,8 +32,6 @@ If you stay here too long, you stop learning and start entenched firefighting.
 
 Ignition is where things begin, not where they end.
 
----
-
 ### 2. Friction: The Reality Check
 
 Then comes friction. The first outage, the missing dependency, the late-night “who owns this?” message.
@@ -45,8 +41,6 @@ The cracks aren’t temporary anymore; they’re signals that you’re building 
 
 Friction feels uncomfortable, but it’s necessary.
 It’s proof that your system is alive and worth improving.
-
----
 
 ### 3. Calibration: Order Starts to Appear
 
@@ -59,7 +53,6 @@ You’re no longer reacting to problems. You’re designing systems that prevent
 
 Calibration isn’t about slowing down. It’s about making speed sustainable.
 
----
 
 ### 4. Stabilization: The System Holds
 
@@ -70,8 +63,6 @@ You understand what’s supposed to happen, and when it doesn’t, you can spot 
 
 Stabilization isn’t perfection. It’s predictability.
 You’ve built something that behaves like it should, and that’s the beginning of trust.
-
----
 
 ### 5. Optimization: Refinement Over Reinvention
 
@@ -85,7 +76,6 @@ It’s quiet, careful progress that compounds over time.
 
 Every optimization today is a future fire you’ll never have to fight.
 
----
 
 ### 6. Boring: The Ideal State
 
@@ -97,8 +87,6 @@ It means your system has matured. It means your effort paid off.
 Boring isn’t stagnation. It’s mastery.
 It’s the calm that comes when the tools stop getting in your way.
 
----
-
 ### The Rule of the Line
 
 You can enter this process at any point, but you can’t skip ahead.
@@ -108,7 +96,6 @@ If you try to leap from ignition straight to optimization, you’ll slide back i
 Every trip through the line makes you better at it.
 You start to see the patterns. You start to trust the process.
 
----
 
 ### The Loop Back
 
@@ -119,7 +106,6 @@ Boring is an ideal, not a permanent state. The goal is always to stay here, but 
 The teams that thrive aren’t the ones that never break things.
 They’re the ones that rebuild calm faster than chaos arrives.
 
----
 
 ### Why It Matters
 
@@ -127,7 +113,6 @@ Teams that understand the Rule of the Line stop chasing excitement for its own s
 They build calmer systems, make fewer mistakes, and learn to see reliability as creative work.
 They stop equating drama with progress and start treating consistency as a skill.
 
----
 
 ### Closing Thought
 

@@ -10,7 +10,7 @@ classes: wide
 
 > The hardest part of doing boring work is explaining why you didn't do exciting work.
 
-Let's stop pretending BoringOps is just a philosophy problem. It's an economic problem, a political problem, and a career problem. You can believe in stability all you want—the system you work in is designed to punish you for it.
+Let's stop pretending BoringOps is just a philosophy problem. It's an economic problem, a political problem, and a career problem. You can believe in stability all you want but the system you work in is designed to punish you for it.
 
 Here's what actually happens when you try to practice BoringOps in the real world.
 
@@ -58,7 +58,7 @@ Boring companies struggle to hire because engineers optimize for resume lines, n
 
 You end up with two choices: hire people who want excitement and watch them get bored and leave, or hire people who value stability and accept a smaller talent pool.
 
-**What this means**: BoringOps has a talent ceiling. You can't just decide to be boring—you have to build a team that can tolerate it. That's harder than it sounds.
+**What this means**: BoringOps has a talent ceiling. You can't just decide to be boring, you have to build a team that can tolerate it. That's harder than it sounds.
 
 ## Truth #5: Startups Can't Afford Boring
 

@@ -1,14 +1,12 @@
 ---
-title: "A BoringOps Rebuttal"
-excerpt: "BoringOps: The Uncomfortable Truths Nobody Wants to Hear"
+title: "BoringOps: The Uncomfortable Truths Nobody Wants to Hear"
+#excerpt: "The hardest part of doing boring work is explaining why you didn't do exciting work."
 header:
   teaser: /assets/images/metronome.png
 tags: [consistency, infrastructure]
 layout: single
+classes: wide
 ---
-
-
-# BoringOps: The Uncomfortable Truths Nobody Wants to Hear
 
 > The hardest part of doing boring work is explaining why you didn't do exciting work.
 

@@ -1,6 +1,6 @@
 ---
-title: "BoringOps: The Uncomfortable Truths Nobody Wants to Hear"
-#excerpt: "The hardest part of doing boring work is explaining why you didn't do exciting work."
+title: "BoringOps: A Reality Check"
+excerpt: "The hardest part of doing boring work is explaining why you didn't do exciting work. Let's stop pretending BoringOps is just a philosophy problem. It's an economic problem, a political problem, and a career problem..."
 header:
   teaser: /assets/images/metronome.png
 tags: [consistency, infrastructure]

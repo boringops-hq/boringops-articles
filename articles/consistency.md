@@ -6,10 +6,6 @@ header:
 tags: [consistency, infrastructure]
 layout: single
 
-toc: true
-toc_label: "Table of Contents"
-toc_icon: "cog"
-
 ---
 
 *Every deploy should be so dull you forget it happened.*

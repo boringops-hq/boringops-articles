@@ -1,5 +1,5 @@
 ---
-title: "BoringOps vs. DevOps, DevSecOps, and SRE: The Quiet Revolution"
+title: "BoringOps vs. DevOps, DevSecOps, and SRE"
 excerpt: "A marathon is not finished by counting steps but by conserving focus for the goal that matters: reaching the finish line."
 header:
   teaser: /assets/images/metronome.png

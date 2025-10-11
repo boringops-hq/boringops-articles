@@ -1,12 +1,11 @@
 ---
-title: "Boring is an organizational multiplier"
-excerpt: "BoringOps: The Efficiency Multiplier Nobody Talks About"
+title: "Boring as an Organizational Multiplier"
+excerpt: "Let's clear something up: BoringOps is not about doing less. It's about stopping the waste so you can do more of what matters..."
 header:
   teaser: /assets/images/metronome.png
 tags: [consistency, infrastructure]
 layout: single
 ---
-
 
 # BoringOps: The Efficiency Multiplier Nobody Talks About
 

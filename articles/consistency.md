@@ -9,7 +9,7 @@ classes: wide
 
 ---
 
-*Every deploy should be so dull you forget it happened.*
+> Every deploy should be so dull you forget it happened.
 
 ## The Foundation
 

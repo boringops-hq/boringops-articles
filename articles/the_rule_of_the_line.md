@@ -5,6 +5,7 @@ header:
   teaser: /assets/images/metronome.png
 tags: [boringops, consistency, infrastructure, process, maturity]
 layout: single
+author: Dan Zrobok
 ---
 
 > *“Boring isn’t the end of innovation. It’s what happens when innovation finally grows up.”*

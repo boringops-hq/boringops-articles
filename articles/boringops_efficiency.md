@@ -5,6 +5,7 @@ header:
   teaser: /assets/images/metronome.png
 tags: [consistency, infrastructure]
 layout: single
+author: Dan Zrobok
 ---
 
 # BoringOps: The Efficiency Multiplier Nobody Talks About

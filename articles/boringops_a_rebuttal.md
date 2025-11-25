@@ -85,7 +85,9 @@ So you end up doing projects you don't need, not because they're necessary, but 
 
 Every few years, the industry forgets the lessons it learned and has to relearn them expensively.
 
-Microservices? We learned this in the SOA era. Serverless? We learned this with CGI scripts. Kubernetes? We learned this with Mesos and YARN and the datacenter automation before that.
+Microservices? We learned this in the SOA era. 
+Serverless? We learned this with CGI scripts. 
+Kubernetes? We learned this with Mesos and YARN and the datacenter automation before that.
 
 The pattern repeats: new technology promises to solve old problems, creates new problems, eventually settles into boring stability, and then gets replaced by the next thing that promises to solve the old problems.
 
@@ -93,15 +95,15 @@ BoringOps means opting out of this cycle. It means using last decade's boring so
 
 **What this means**: You must accept feeling outdated, but recognize the massive strategic advantage it provides. By avoiding the churn, your team gains **institutional memory and collective mastery**, making your boring stack inherently more reliable and cheaper than your competitors' exciting ones. Stop caring about being current; start caring about being **unbreakable**.
 
-## Truth #8: Boring Requires Saying No, Constantly
+## Truth #8: Boring Requires Saying 'No', Constantly
 
 The hardest part of BoringOps isn't technical. It's social.
 
-It's saying no when a senior engineer wants to rewrite the deployment system. It's saying no when everyone's excited about the new observability platform. It's saying no when a competitor announces they're using some exciting new stack.
+It's saying 'no' when a senior engineer wants to rewrite the deployment system. It's saying 'no' when everyone's excited about a new observability platform. It's saying 'no' when a competitor announces they're using some exciting new stack.
 
-Every no feels like you're being the person who "doesn't get it." Every no requires justification. Every no is an argument you have to win.
+A 'no' feels like you're being the person who "doesn't get it." A 'no' requires justification. A 'no' is an argument you have to win.
 
-Exciting only requires one yes. Boring requires infinite nos.
+Exciting only requires one yes. Boring requires infinite 'no's.
 
 **What this means**: BoringOps is exhausting in a different way than exciting ops. You're not tired from doing too much. You're tired from defending doing enough.
 
@@ -133,13 +135,13 @@ The criticisms of BoringOps are predictable.
 
 And they’re all wrong, not because the critics misunderstand the technology, but because they misunderstand the incentives.
 
-BoringOps looks slow only inside a systems that confuse motion for progress.
+BoringOps looks slow only inside systems that confuse motion for progress.
 It looks conservative only to people who’ve never paid the bill for failed reinventions.
 It looks anti-innovation only when you mistake tool churn for innovation.
 It looks career-limiting only in orgs that reward chaos.
 It looks outdated only if you believe the hype cycle is a measure of value.
 
-Every criticism of BoringOps collapses the moment you shift from engineering incentives to business incentives. Stability is the cheapest, safest, and most profitable state any system can reach. The only reason it’s hard is because the surrounding culture is optimized for noise.
+Every criticism of BoringOps collapses the moment you shift from engineering incentives to business incentives. Stability is the cheapest, safest, and most profitable state any system can reach. The only reason it’s difficult is due to the surrounding culture being optimized for noise.
 
 The system punishes boring not because boring is wrong, but because boring exposes how much of the industry’s “innovation” is performative.
 

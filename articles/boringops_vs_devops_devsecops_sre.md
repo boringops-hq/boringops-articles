@@ -94,4 +94,4 @@ BoringOps is the quiet revolution that begins when you stop measuring maturity a
 
 ---
 
-**boring (adj.)**: the state of operational systems that resist complexity and performative toil, restoring engineering capacity for real problem solving.
+**boring (adj.)**: the state of operational systems that resist complexity and performative toil, restoring engineering capacity for real problem-solving.

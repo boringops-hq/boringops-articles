@@ -7,6 +7,7 @@ tags: [consistency, infrastructure]
 layout: single
 classes: wide
 author: Dan Zrobok
+date: 2025-10-01
 
 ---
 
@@ -14,7 +15,7 @@ author: Dan Zrobok
 
 ## The Foundation
 
-Consistency is the quietest and strongest form of reliability. It hides in repetition. It looks like routine. It feels like boredom. That sameness is the point.
+Consistency is the quietest and strongest form of reliability. It hides in repetition, looks like routine and feels like boredom. That sameness is the point.
 
 In infrastructure, consistency means trust. A predictable system removes fear. Each repeated outcome compounds that trust. One command works the same in staging, production, or a developer’s laptop. That is what stability looks like.
 

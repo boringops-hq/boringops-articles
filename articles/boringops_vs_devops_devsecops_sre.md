@@ -6,6 +6,7 @@ header:
 tags: [BoringOps, Infrastructure, Consistency, Efficiency, Culture, DevOps]
 layout: single
 author: Dan Zrobok
+date: 2025-09-07
 ---
 
 **A ship does not reach its destination by thrashing against the wind, but by setting a clear course and eliminating drag.**

@@ -6,6 +6,7 @@ header:
 tags: [boringops, consistency, infrastructure, process, maturity]
 layout: single
 author: Dan Zrobok
+date: 2025-09-17
 ---
 
 Systems start as inspiration. They end as responsibility.

@@ -7,6 +7,7 @@ tags: [devops, career, culture, incentives, stability, leadership]
 layout: single
 classes: wide
 author: Dan Zrobok
+date: 2025-09-24
 ---
 
 <!--  The hardest part of doing boring work is explaining why you didn't do exciting work. -->

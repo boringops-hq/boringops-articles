@@ -6,6 +6,7 @@ header:
 tags: [BoringOps, Infrastructure, Efficiency, Capacity, Strategy, Productivity, Career, Incentives, DevOps]
 layout: single
 author: Dan Zrobok
+date: 2025-09-01
 ---
 
 The best infrastructure team is defined not by what they fix, but by the product capacity they free up.

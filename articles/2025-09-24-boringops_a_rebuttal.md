@@ -8,6 +8,7 @@ layout: single
 classes: wide
 author: Dan Zrobok
 date: 2025-09-24
+permalink: /articles/stability-is-punished/
 ---
 
 <!--  The hardest part of doing boring work is explaining why you didn't do exciting work. -->

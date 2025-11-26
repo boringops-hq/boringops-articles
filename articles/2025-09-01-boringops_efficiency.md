@@ -7,6 +7,8 @@ tags: [BoringOps, Infrastructure, Efficiency, Capacity, Strategy, Productivity, 
 layout: single
 author: Dan Zrobok
 date: 2025-09-01
+permalink: /articles/the-efficiency-multiplier/
+share: true
 ---
 
 The best infrastructure team is defined not by what they fix, but by the product capacity they free up.

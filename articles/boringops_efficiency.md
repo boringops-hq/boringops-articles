@@ -75,7 +75,7 @@ Boring infrastructure isn't a career liability. It's a career asset if you measu
 
 Walk into your board meeting. Say this:
 
-"Two years ago we had 15 people on infrastructure shipping 8 features per quarter. Today we have 4 people on infrastructure shipping 18 features per quarter. Our uptime improved from 99.5% to 99.95%. Our infrastructure costs dropped 30%. **We redeployed those 11 engineers into product work.**"
+"Two years ago we had 15 people on infrastructure shipping 8 features per quarter. Today we have 4 people on infrastructure shipping 4 features per quarter. Our uptime improved from 99.5% to 99.95%. Our infrastructure costs dropped 30%. **We redeployed those 11 engineers into product work.**"
 
 That's not a story about doing nothing. It's a story about **ruthless efficiency** and understanding where to compete.
 

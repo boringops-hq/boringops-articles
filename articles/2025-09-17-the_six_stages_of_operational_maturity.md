@@ -11,7 +11,6 @@ tags: [boringops, consistency, infrastructure, process, maturity]
 layout: single
 author: Dan Zrobok
 date: 2025-09-17
-permalink: /articles/from-chaos-to-calm-earning-maturity/
 ---
 
 Systems usually start as inspiration and eventually turn into responsibility.

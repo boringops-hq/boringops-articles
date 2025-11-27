@@ -1,5 +1,5 @@
 ---
-title: "Principle: Consistency"
+title: "Pillar: Consistency"
 excerpt: "Consistency is the foundation of boring infrastructure. Predictability breeds trust, and trust enables speed."
 header:
   teaser: /assets/images/metronome.png
@@ -8,7 +8,6 @@ layout: single
 classes: wide
 author: Dan Zrobok
 date: 2025-10-01
-permalink: /articles/pillar-consistency/
 ---
 
 > Every deploy should be so dull you forget it happened.

@@ -7,16 +7,15 @@ tags: [BoringOps, Infrastructure, Consistency, Efficiency, Culture, DevOps]
 layout: single
 author: Dan Zrobok
 date: 2025-10-31
-permalink: /articles/boringops-vs-devops-vs-devsecops-vs-sre/
 ---
 
 **A system should not need heroics to stay upright. It should quietly do its job and stop consuming everyone's time.**  
+
 **We forgot that, didn't we?**
 
 We chased slogans, pipelines, certifications, dashboards, and so-called best practices until the work turned into a performance. Every movement that promised clarity ended up drowning teams in more process than the one before it.
 
 BoringOps is the refusal to keep playing that game. It is not a framework or a rebranding. It is a return to the only thing that actually matters: systems that behave and teams freed to get real work done.
-
 
 ## DevOps: The Age of Acceleration and Over-Acceleration
 

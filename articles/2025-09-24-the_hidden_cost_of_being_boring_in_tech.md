@@ -8,7 +8,6 @@ layout: single
 classes: wide
 author: Dan Zrobok
 date: 2025-09-24
-permalink: /articles/cost-of-being-boring/
 ---
 
 Let's stop pretending BoringOps is some philosophical stance about “doing things the right way.” You can believe in stability all day, but the system you work in is built to punish it. 

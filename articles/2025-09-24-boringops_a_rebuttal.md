@@ -8,106 +8,105 @@ layout: single
 classes: wide
 author: Dan Zrobok
 date: 2025-09-24
-permalink: /articles/stability-is-punished/
+permalink: /articles/cost-of-being-boring/
 ---
 
-<!--  The hardest part of doing boring work is explaining why you didn't do exciting work. -->
+Let's stop pretending BoringOps is some philosophical stance about “doing things the right way.” You can believe in stability all day, but the system you work in is built to punish it. 
 
-Let's stop pretending BoringOps is just a philosophy problem. It's an economic problem, a political problem, and a career problem. You can believe in stability all you want but the system you work in is designed to punish you for it.
+Not technically. Politically. Economically. Culturally. 
 
-Here's what actually happens when you try to practice BoringOps in the real world.
+Every part of the incentives pushes you toward visible change, even when the stable thing is cheaper, safer, and obviously better.
+
+Here’s what actually happens when you try to practice BoringOps in the real world.
 
 ## Truth #1: Your Career Depends on Visible Change
 
-You know what gets you promoted? Launching things. Migrating things. "Leading the initiative to modernize our deployment pipeline." You know what doesn't? "Kept the Jenkins instance running for another year because it works fine."
+Promotions come from motion, not outcomes. Launching things. Migrating things. Leading “transformations.”
+Nobody climbs a level by keeping a quiet system quiet.
 
-The performance review has no checkbox for "prevented unnecessary work." Your manager needs to write a narrative about your impact. "Sarah maintained stability" is not a narrative. "Sarah led our migration to Kubernetes, reducing deployment time by 40%" is a narrative. Never mind that the old system deployed in 4 minutes and the new one deploys in 2.4 minutes and took six months to build.
+Performance reviews don’t reward the absence of chaos. “Sarah kept Jenkins stable for another year” gets you a pat on the head. “Sarah led the migration to Kubernetes” gets you a raise, even if the old system deployed in four minutes and the new one deploys in 2.4 but took half a year to rebuild.
 
-BoringOps asks you to optimize for the business. Your career optimization function is different. Until companies learn to reward stability as much as they reward transformation, this tension won't resolve.
+BoringOps optimizes for the business. Your career optimizes for optics. These are not compatible.
 
-**What this means**: Choosing boring is choosing the business's long-term health over your career's visible output. This tension is a political problem, not a technical one. You must recognize the cost and be prepared to fight a strategic defense against the incentive system.
+**What this means**: If you choose boring, you’re stepping outside the promotion playbook. You must be ready to quantify your impact, collect evidence, and defend your decisions politically because the system won’t reward stability by default.
 
-## Truth #2: "Nobody Got Fired for Buying IBM" Is Still True
+## Truth #2: “Nobody Got Fired for Buying IBM” Never Went Away
 
-The safest career move is doing what everyone else is doing. If your infrastructure falls over because you're running a bespoke stack that seemed sensible, you're an idiot. If it falls over because you're running the same thing as everyone else, well, AWS had an outage. What could you do?
+The safest career move is running whatever everyone else runs. If it breaks, you get sympathy. If your “simple and boring” choice breaks, you get blamed for “not modernizing.”
 
-BoringOps often means choosing the boring-but-proven over the exciting-but-standard. That's career risk. When you defend your decision to stick with Postgres instead of adopting the latest distributed database that your competitors use, you better be right. If you're wrong, you're the person who was "too conservative" and "resistant to innovation."
+Stick with Postgres while everyone is chasing some new distributed database? You’re “conservative.”
+Adopt the shiny mess because everyone else is? You’re “aligned with industry trends.”
 
-The herd provides cover. Boring provides exposure.
+Conformity gives cover. Boring gives exposure.
 
-**What this means**: Being boring requires more confidence than being trendy. You need to be right more often because you have fewer excuses when you're wrong.
+**What this means**: To choose boring, you need to be right more often because you get fewer excuses and won't be able to lean on 'industry standards' reasoning to cover your back.
 
-## Truth #3: Vendors Will Eat You Alive
+## Truth #3: Vendors Are Wired to Make You Feel Behind
 
-Every SaaS company, every consultant, every conference talk is selling the same story: your current approach is insufficient. Here's the gap you didn't know you had. Here's the tool that fills it.
+Every vendor pitch is built on the same formula:
+“You’re missing something. Good thing we sell it.” If you say no, you’re “resistant.” If you say yes, you’re “forward-thinking.” And if something goes wrong later, leadership will ask why you didn’t buy the tool everyone else uses.
 
-They're not wrong to sell. They're wrong about how often you need to buy.
+Doing nothing requires more justification than buying something useless.
 
-But here's the trap: if you're a decision-maker and you *don't* adopt the new thing, and then something goes wrong, people will ask why you didn't have "industry standard" tooling. The vendor ecosystem creates a constant tax on doing nothing. Standing still feels like falling behind because everyone's shouting about how far ahead they're getting.
+**What this means**: BoringOps requires a strong immune system. Most teams don’t have one. Buying the tool is easier than defending the decision not to.
 
-BoringOps means ignoring most of what you hear at conferences. It means watching your peers adopt tools you don't need. It means being comfortable with FOMO as a permanent condition.
+## Truth #4: The Hiring Market Is Biased Toward Shiny Work
 
-**What this means**: You have to develop an immune system against solutions looking for problems. Most teams don't have this. It's easier to buy the thing than to justify not buying the thing.
+Try posting this job:
+> “We use Postgres and Rails. Infra hasn’t changed in three years. You’ll be maintaining a stable system.”
 
-## Truth #4: The Hiring Pool Is Politically Skewed
+Now post this one:
+>“We’re building microservices on Kubernetes with a modern event-driven architecture. Greenfield. Influence the future.”
 
-Post a job that says: "We use Postgres, Rails, and deploy with Capistrano. Our infrastructure hasn't changed in three years. You will mostly fix small bugs and respond to occasional issues."
+One gets flooded. One doesn’t.
 
-Now post one that says: "We're building a modern microservices platform on Kubernetes with React and GraphQL. Greenfield opportunity to shape our technical future."
+The industry optimizes for résumé glitter, not sustainable systems. People who want stability are harder to find because the entire job market trains them to chase the next tool.
 
-Which one gets more applicants? The exciting one, hands down.
+**What this means**: BoringOps workforces are built on values, not tech stacks. You must recruit people who care about mastery over novelty.
 
-Boring companies struggle to hire, not because they have fewer available candidates, but because the industry's default filter optimizes for resume lines, not sustainable work. The candidate who wants to learn Kubernetes won't join your boring shop. The candidate who just wants stability and mastery is likely already employed, or worse, they won't even apply because the rest of the job market taught them stability is a synonym for stagnation.
+## Truth #5: Startups Literally Cannot Be Boring
 
-You end up with two choices: hire people who want excitement and watch them get bored and leave, or fight the market bias to find and attract the larger, more reliable pool of candidates who value longevity and impact over shiny new tools.
+If you’re pre-product-market-fit, boring is death. You need to move fast, try things, pivot. Your infrastructure should be held together with duct tape because you might throw the whole thing away next month.
 
-**What this means**: The ultimate goal of BoringOps is that the "fix small bugs" job role effectively disappears, repurposing that labor for high-value product goals. At the same time, you must convince the external talent market that your stability is a sign of progress, not stagnation.
+BoringOps is a luxury of success. It only works when you’ve found something worth stabilizing. Before that, premature boring is just premature optimization with a different name.
 
-## Truth #5: Startups Can't Afford Boring
-
-If you're pre-product-market-fit, boring is death. You need to move fast, try things, pivot. Your infrastructure should be held together with duct tape because you might throw the whole thing away next month.
-
-BoringOps is a luxury of success. It only works when you've found something worth stabilizing. Before that, premature boring is just premature optimization with a different name.
-
-The hard part? It's not knowing when to switch; it's getting leadership to fund the switch. Most organizations suffer from chaos inertia. Even after product-market-fit is found, the culture of "move fast and break things" is deeply entrenched, and executives are wary of paying the stabilization tax.
+The hard part? It’s not knowing when to switch; it’s getting leadership to fund the switch. Most organizations suffer from chaos inertia. Even after product-market-fit is found, the culture of “move fast and break things” is deeply entrenched, and executives are wary of paying the stabilization tax.
 
 **What this means**: BoringOps isn’t anti-startup: it’s anti-stagnation. Once the business knows what it is, chaos stops being agility and starts being drag. Your job is to force the organization to mature even when its habits don’t want to.
 
-## Truth #6: Leadership Wants a Story
+## Truth #6: Leadership Needs a Story, Not Silence
 
-Your CTO needs to go to the board and talk about technical progress. "We did nothing this quarter because everything already works" is not a winning message. Leadership needs wins. Stability is invisible until it breaks.
+Your CTO needs to go to the board and talk about technical progress. “We did nothing this quarter because everything already works” is not a winning message. Leadership needs wins. Stability is invisible until it breaks.
 
 This creates a perverse incentive: executives want evidence of technical investment. The quieter your ops become, the harder it is to justify your headcount. Teams that constantly ship visible improvements look productive. Teams that maintain invisible stability look... expendable?
 
-So you end up doing projects you don't need, not because they're necessary, but because you need to prove you're doing something.
+So you end up doing projects you don’t need, not because they’re necessary, but because you need to prove you’re doing something.
 
-**What this means**: BoringOps requires executive buy-in that most companies don't have. Without it, you'll get pressured to create motion even when stillness is the right answer.
+**What this means**: BoringOps requires executive buy-in that most companies don’t have. Without it, you’ll get pressured to create motion even when stillness is the right answer.
 
-## Truth #7: The Industry Has Amnesia
+## Truth #7: The Industry Keeps Forgetting What It Already Learned
 
 Every few years, the industry forgets the lessons it learned and has to relearn them expensively.
 
-Microservices? We learned this in the SOA era. 
-Serverless? We learned this with CGI scripts. 
-Kubernetes? We learned this with Mesos and YARN and the datacenter automation before that.
+Microservices? We learned this in the SOA era. Serverless? We learned this with CGI scripts. Kubernetes? We learned this with Mesos and YARN and the datacenter automation before that.
 
 The pattern repeats: new technology promises to solve old problems, creates new problems, eventually settles into boring stability, and then gets replaced by the next thing that promises to solve the old problems.
 
-BoringOps means opting out of this cycle. It means using last decade's boring solution instead of this decade's exciting one. But the industry doesn't reward institutional memory. It rewards being early to the next thing.
+BoringOps means opting out of this cycle. It means using last decade’s boring solution instead of this decade’s exciting one. But the industry doesn’t reward institutional memory. It rewards being early to the next thing.
 
-**What this means**: You must accept feeling outdated, but recognize the massive strategic advantage it provides. By avoiding the churn, your team gains **institutional memory and collective mastery**, making your boring stack inherently more reliable and cheaper than your competitors' exciting ones. Stop caring about being current; start caring about being **unbreakable**.
+**What this means**: You must accept feeling outdated, but recognize the massive strategic advantage it provides. By avoiding the churn, your team gains institutional memory and collective mastery, making your boring stack inherently more reliable and cheaper than your competitors’ exciting ones. Stop caring about being current; start caring about being unbreakable.
 
-## Truth #8: Boring Requires Saying 'No', Constantly
+## Truth #8: Boring Requires Infinite ‘No’s
 
-The hardest part of BoringOps isn't technical. It's social.
+The hardest part of BoringOps is not technical, it’s social.
 
-It's saying 'no' when a senior engineer wants to rewrite the deployment system. It's saying 'no' when everyone's excited about a new observability platform. It's saying 'no' when a competitor announces they're using some exciting new stack.
+People love new things. Rewrites. Migrations. Tools with dashboards that glow.
+Saying “no” to these feels like you’re the blocker. The dinosaur. The person who “doesn’t get it.”
 
-A 'no' feels like you're being the person who "doesn't get it." A 'no' requires justification. A 'no' is an argument you have to win.
+Exciting only needs one yes.
+Boring requires a lifetime of no’s.
 
-Exciting only requires one yes. Boring requires infinite 'no's.
-
-**What this means**: BoringOps is exhausting in a different way than exciting ops. You're not tired from doing too much. You're tired from defending doing enough.
+**What this means**: BoringOps is exhausting in a different way than exciting ops. You’re not tired from doing too much. You’re tired from defending doing enough.
 
 ## So What Do You Actually Do?
 
@@ -127,38 +126,30 @@ If you still want to practice BoringOps after reading all this, here's what it a
 
 ## The Real Revolution
 
-The criticisms of BoringOps are predictable.
+Critics of BoringOps always reach for the same labels:
 
-- “Too slow.”
-- “Too conservative.”
-- “Anti-innovation.”
-- “Career-limiting.”
-- “Not modern.”
+Too slow.
+Too conservative.
+Anti-innovation.
+Career-limiting.
+Not modern.
 
-And they’re all wrong, not because the critics misunderstand the technology, but because they misunderstand the incentives.
+They’re wrong because they assume motion equals progress. The moment you shift from engineering incentives to business incentives, BoringOps stops looking contrarian and starts looking like the only sane path.
 
-BoringOps looks slow only inside systems that confuse motion for progress.
-It looks conservative only to people who’ve never paid the bill for failed reinventions.
-It looks anti-innovation only when you mistake tool churn for innovation.
-It looks career-limiting only in orgs that reward chaos.
-It looks outdated only if you believe the hype cycle is a measure of value.
+Stability is the cheapest, safest, most profitable state a system can reach. The only reason it’s difficult is due to the cultural incentives that reward chaos more than results.
 
-Every criticism of BoringOps collapses the moment you shift from engineering incentives to business incentives. Stability is the cheapest, safest, and most profitable state any system can reach. The only reason it’s difficult is due to the surrounding culture being optimized for noise.
-
-The system punishes boring not because boring is wrong, but because boring exposes how much of the industry’s “innovation” is performative.
-
-This is why BoringOps persists:
-it produces value without requiring permission from the incentive structures that fight it.
+BoringOps exposes the truth most companies don’t want to confront:
+if stability doesn’t look valuable, it’s because the organization is optimized to misunderstand value.
 
 Operational silence isn’t the absence of work.
-It’s the sign that the work was done correctly.
+It’s the signal that the work was done correctly.
 
-Until companies rewrite their incentive systems, BoringOps will continue to look like a contrarian stance.
-But the people who practice it will continue to ship less chaos, burn out slower, deliver more reliable profit, and build systems that don’t collapse when the hype cycle moves on.
+Until incentive systems change, BoringOps will look rebellious.
+But the people who practice it will burn out slower, deliver more reliable profit, and build systems that don’t collapse when the hype cycle shifts.
 
 BoringOps doesn’t need to win the argument.
-It only needs to **outlive the chaos**.
+It just needs to **outlive the chaos**.
 
 ---
 
-**boring (adj.)**: the essential work that the system is designed to punish. See also: **proactive quantification, political influence, the right choice.**
+**boring (adj.)**: the essential work organizations punish because it removes the drama they rely on to measure progress.

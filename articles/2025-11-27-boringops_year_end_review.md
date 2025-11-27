@@ -1,6 +1,6 @@
 ---
 title: "BoringOps: How to Position Stability for a Promotion"
-date: 2025-11-20 10:00:00 -0500
+date: 2025-11-27
 author: Dan Zrobok
 header:
   teaser: /assets/images/metronome.png
@@ -60,7 +60,7 @@ Risk work is promotable when you tie it to real money or protected time.
 Turn calm into long-term leverage.
 
 Operational Debt compounds like interest. Removing it is one of the most valuable things an engineer can do.
-a
+
 | Metric | Business Value | Promotion Angle |
 | :--- | :--- | :--- |
 | Tribal Knowledge Reduction | Higher resilience and fewer bottlenecks | Show how you raised the bus factor from **1 to N** with docs or automation. |

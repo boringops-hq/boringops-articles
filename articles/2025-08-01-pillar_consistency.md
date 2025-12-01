@@ -22,7 +22,7 @@ Perfect systems do not exist. Predictable ones do.
 
 ## Why Boring Matters
 
-In BoringOps, “boring” is praise. It means nothing surprising happened. No spike of adrenaline. No fire drill. Just calm.
+In BoringOps, “boring” is praise. It means nothing surprising happened. No spike of adrenaline. No fire drills. Just calm.
 
 Excitement in operations signals a failure somewhere. Surprise is evidence of inconsistency. The goal is a workflow where change feels uneventful. Boring is safe. Safe is fast.
 
@@ -90,7 +90,6 @@ Consistency is not the opposite of change. It is what makes change safe.
 Innovation needs a stable floor. Teams need systems they can rely on. The world has enough clever infrastructure. What it lacks is predictable infrastructure.
 
 Consistency is how reliability becomes culture. It is the first and most essential pillar of boring infrastructure.
-
 
 ---
 

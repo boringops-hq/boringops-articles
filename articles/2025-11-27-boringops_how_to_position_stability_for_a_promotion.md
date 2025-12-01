@@ -103,6 +103,7 @@ Strategic alignment proves your impact leaves engineering and enters the busines
 Never present BoringOps work as maintenance. Present it as a strategic engineering asset with measurable return.
 
 The best way to get credit for preventing a fire is to quantify the cost of the fire that never happened.  
+
 Calm is not the absence of work. Calm is the result of deliberate engineering.
 
 Choose stability. Quantify the impact. Earn the promotion.

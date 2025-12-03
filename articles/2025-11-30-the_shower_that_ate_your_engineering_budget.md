@@ -12,7 +12,7 @@ Most places toss the baby out with the bathwater, only to realize the water’s 
 
 Then leadership announces the “upgrade”: showers for everyone. **Clap, please**.
 
-And after months of expensive process remodeling, you end up in a cold communal shower where every scrub costs more.
+After months of expensive process remodeling, you end up in a cold communal shower where every scrub costs more.
 
 ## The Bathtub: Stable, Cheap, and Apparently Unacceptable
 
@@ -21,7 +21,7 @@ And after months of expensive process remodeling, you end up in a cold communal 
 - Upfront cost: $500
 - Maintenance: clean it yourself
 - Capacity: unlimited baths
-- Privacy: it's in your house
+- Privacy: it's in your building
 - Predictable: works the same every day
 
 **2010: "Bathtubs Don't Scale"**
@@ -39,7 +39,7 @@ Your bathtub, which has worked perfectly for years, suddenly feels inadequate.
 **2015: The Migration**
 
 - Flag the bathtub as “legacy”
-- Force everyone to shower at the Communal Facility™
+- Force everyone to shower at the Communal Facility™: us-east-shower-2
 - Celebrate the "shower-native" architecture
 - Write a blog post about your "transformation journey"
 - Add new teams to manage the “modern hygiene platform”
@@ -394,7 +394,9 @@ It's a metaphor for every choice between ownership and subscription, between con
 
 Choose carefully.
 
-The monthly bill always seems reasonable until you're taking an ice-cold 3 AM shower to stay under budget. But it’s the 10-year cost and lost efficiency that should make you shiver.
+The monthly bill always seems reasonable until you're taking an ice-cold 3 AM shower in Ohio to stay under budget. 
+
+But really, it’s the 10-year price tag and lost efficiency that should make you shiver.
 
 ---
 

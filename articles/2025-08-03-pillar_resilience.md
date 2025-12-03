@@ -6,7 +6,7 @@ header:
 tags: [boringops, resilience, architecture, reliability, failure-tolerance]
 layout: single
 author: Dan Zrobok
-date: 2025-11-21
+date: 2025-08-03
 ---
 
 > “If your recovery story is exciting, you do not have resilience. You have luck.”

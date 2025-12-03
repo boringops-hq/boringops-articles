@@ -353,7 +353,9 @@ The most valuable engineering work is often the work you **don't do**.
 
 **Keep the bathtub, the baby and the bathwater.**
 
-And if a vendor tries to sell you a communal shower, simply state, 'We prioritize simplicity over architecture diagrams, and our bathtub is working perfectly'.
+And if a vendor tries to sell you a communal shower, simply state:
+
+> 'We prioritize simplicity in architecture, and our bathtub is working perfectly'.
 
 ## Epilogue: The Subscription Economy
 

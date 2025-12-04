@@ -57,7 +57,7 @@ Peak-time surcharge:           $1/shower × 12 showers
 Warm Shower Reservation Fee:   $5/month
 Water egress fee:              $0.09/L x 200 litres (drainage)
 Humidity Monitoring:           $0.25/GB x 12GB (1 minute intervals)
-Hygiene Event Logging:         $0.002/event × 1,240 events
+DropletWatch Logging:          $0.002/event × 1,240 events
 Other Fixture Utilization:     $2/month (sinks, toilets, mirrors)
 Support tier fee:              $5 (access to shower attendants and maintenance)
 

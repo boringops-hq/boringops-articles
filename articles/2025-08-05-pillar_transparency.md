@@ -93,4 +93,4 @@ When it hides the truth, heroism becomes the tax you pay to keep it alive.
 
 ---
 
-**boring (adj.)** : A system that states its condition plainly enough that engineers can trust it without reconstruction or detective work at 3 AM.
+**boring (adj.)**: A system that states its condition plainly enough that engineers can trust it without reconstruction or detective work at 3 AM.

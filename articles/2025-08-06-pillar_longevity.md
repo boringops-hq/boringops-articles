@@ -6,7 +6,7 @@ header:
 tags: [boringops, longevity, architecture, cost, maturity]
 layout: single
 author: Dan Zrobok
-date: 2025-11-24
+date: 2025-08-06
 ---
 
 > *"The fastest way to create legacy is to believe something is temporary."*

@@ -51,7 +51,7 @@ Monthly Shower Statement:
 Base access fee:               $5/month
 Per-shower charge:             $0.05/shower × 30 showers
 Hot water premium:             $0.25/shower × 30 showers
-Soap dispenser fee:            $0.10/pump × 120 pumps
+S3oap dispenser fee:           $0.10/pump × 120 pumps
 Towel rental:                  $0.50/use × 30 uses
 Peak-time surcharge:           $1/shower × 12 showers
 Warm Shower Reservation Fee:   $5/month

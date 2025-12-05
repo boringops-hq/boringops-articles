@@ -71,7 +71,7 @@ If your failover story includes the phrase “in theory,” you do not have resi
 
 Here is the reality behind that:
 
-> A client once bragged about their backup datacenter as if it were a fortress. On paper it mirrored production. In practice it was a museum piece. Deployments went there, but nobody ever validated them. Nobody tested failover. Nobody treated it as alive.  
+> A client once bragged about their backup datacenter as if it were a fortress. On paper, it mirrored production. In practice, it was a museum piece. Deployments went there, but nobody ever validated them. Nobody tested failover. Nobody treated it as alive.  
 >
 > One day the primary datacenter suffered a real incident. The team gathered, looked at the dashboard for the backup site, and still refused to flip traffic. Not because failover was risky, but because they had never trusted the backup environment enough to use it. Years of passive neglect had turned it into a Schrödinger site. It existed, but only as a comforting idea.  
 >

@@ -7,7 +7,7 @@ tags: [consistency, infrastructure]
 layout: single
 classes: wide
 author: Dan Zrobok
-date: 2025-10-01
+date: 2025-08-01
 ---
 
 > Every deploy should be so dull you forget it happened.

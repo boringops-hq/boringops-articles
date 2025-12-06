@@ -2,7 +2,7 @@
 title: "The On-Call Test of Platform Excitement"
 excerpt: "One question reveals everything about your platform maturity: 'Who wants to be on-call this weekend?'"
 date: 2025-12-05
-author: "BoringOps"
+author: Dan Zrobok
 tags: [operations, culture, reliability, operational-debt, capacity-return]
 layout: single
 classes: wide

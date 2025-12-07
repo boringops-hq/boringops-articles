@@ -6,7 +6,7 @@ header:
 tags: [boringops, trust, reliability, security, predictability]
 layout: single
 author: Dan Zrobok
-date: 2025-08-07
+date: 2025-08-08
 ---
 
 > "A system you do not trust is a system you will not touch."

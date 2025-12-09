@@ -7,7 +7,7 @@ header:
   overlay_filter: 0.7
   show_overlay_excerpt: false
   show_overlay_title: false
-tags: [boringops, consistency, infrastructure, process, maturity]
+tags: [maturity, operations, discipline]
 layout: single
 author: Dan Zrobok
 date: 2025-09-17

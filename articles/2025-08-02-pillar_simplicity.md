@@ -3,7 +3,7 @@ title: "Pillar: Simplicity"
 excerpt: "Simplicity is the discipline that makes systems operable when everything else goes wrong."
 header:
   teaser: /assets/images/metronome.png
-tags: [simplicity, infrastructure, boringops]
+tags: [pillars, complexity, architecture]
 layout: single
 classes: wide
 author: Dan Zrobok

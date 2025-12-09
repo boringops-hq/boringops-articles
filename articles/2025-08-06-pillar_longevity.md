@@ -3,7 +3,7 @@ title: "Pillar: Longevity"
 excerpt: "Longevity keeps you from rebuilding the same system every few years and calling it progress."
 header:
   teaser: /assets/images/metronome.png
-tags: [boringops, longevity, architecture, cost, maturity]
+tags: [pillars, architecture, cost]
 layout: single
 author: Dan Zrobok
 date: 2025-08-06

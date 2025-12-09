@@ -3,7 +3,7 @@ title: "Pillar: Transparency"
 excerpt: "Transparency turns systems from mysteries into machines. It removes ambiguity, shrinks incidents, and delivers truth at the speed of failure."
 header:
   teaser: /assets/images/metronome.png
-tags: [boringops, transparency, observability, debugging, maturity]
+tags: [pillars,operations, debugging]
 layout: single
 author: Dan Zrobok
 date: 2025-08-05

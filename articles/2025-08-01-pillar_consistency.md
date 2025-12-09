@@ -3,7 +3,7 @@ title: "Pillar: Consistency"
 excerpt: "Consistency is the foundation of boring infrastructure. Predictability breeds trust, and trust enables speed."
 header:
   teaser: /assets/images/metronome.png
-tags: [consistency, infrastructure]
+tags: [pillars, infrastructure, operations]
 layout: single
 classes: wide
 author: Dan Zrobok

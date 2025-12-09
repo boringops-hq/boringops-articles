@@ -3,7 +3,7 @@ title: "BoringOps: The Efficiency Multiplier"
 excerpt: "Every exciting technology comes with a permanent capacity tax. This article argues that freed engineering capacity is the most valuable currency in tech, proving why ruthless simplicity is the greatest force multiplier for product growth."
 header:
   teaser: /assets/images/metronome.png
-tags: [BoringOps, Infrastructure, Efficiency, Capacity, Strategy, Productivity, Career, Incentives, DevOps]
+tags: [efficiency, capacity, strategy]
 layout: single
 author: Dan Zrobok
 date: 2025-09-01

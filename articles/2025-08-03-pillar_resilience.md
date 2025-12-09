@@ -3,7 +3,7 @@ title: "Pillar: Resilience"
 excerpt: "Resilience is not about avoiding failure. It is about making failure uneventful. A resilient system absorbs reality, recovers quietly, and refuses to turn problems into drama."
 header:
   teaser: /assets/images/metronome.png
-tags: [boringops, resilience, architecture, reliability, failure-tolerance]
+tags: [pillars, architecture, reliability]
 layout: single
 author: Dan Zrobok
 date: 2025-08-03

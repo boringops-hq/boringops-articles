@@ -4,7 +4,7 @@ date: 2025-11-16 10:00:00 -0500
 author: Dan Zrobok
 header:
   teaser: /assets/images/metronome.png
-tags: [boringops, consistency, infrastructure, process, maturity]
+tags: [operations, anti-patterns, efficiency]
 excerpt: "In BoringOps, excitement is a symptom. It reveals an architecture held together by improvisation, adrenaline, and luck. Calm systems come from design, not drama."
 layout: single
 ---

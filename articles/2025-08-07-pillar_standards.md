@@ -3,7 +3,7 @@ title: "Pillar: Standards"
 excerpt: "Inconsistency is the silent killer of engineering velocity. Standards eliminate variance, reduce cognitive debt, and turn chaos into predictable execution."
 header:
   teaser: /assets/images/metronome.png
-tags: [boringops, standards, maturity, operations, alignment, cognitive-debt]
+tags: [pillars, operations, culture]
 layout: single
 author: Dan Zrobok
 date: 2025-08-07

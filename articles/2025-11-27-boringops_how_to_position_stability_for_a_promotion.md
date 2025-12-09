@@ -4,7 +4,7 @@ date: 2025-11-27
 author: Dan Zrobok
 header:
   teaser: /assets/images/metronome.png
-tags: [boringops, sre, devops, operational-excellence, promotion, career, quantification, business-value]
+tags: [career, efficiency, strategy]
 excerpt: "Stability gets ignored because it’s invisible. This is how to measure it and use it to earn a promotion."
 layout: single
 ---

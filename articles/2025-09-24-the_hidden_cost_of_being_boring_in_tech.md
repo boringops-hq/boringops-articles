@@ -3,7 +3,7 @@ title: "Why Stability Is Punished: The Hidden Cost of Being Boring in Tech"
 excerpt: "The hardest part of doing boring work is explaining why you didn't do exciting work. BoringOps is not a simple technical choice; it is a battle against the politics of promotion, the pressure of vendors, and a culture that rewards visible change. This article exposes the eight hard truths that make stability difficult to sustain, and outlines what you must do to achieve operational silence in a system built to resist it."
 header:
   teaser: /assets/images/metronome.png
-tags: [devops, career, culture, incentives, stability, leadership]
+tags: [career, culture, incentives]
 layout: single
 classes: wide
 author: Dan Zrobok

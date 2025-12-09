@@ -3,7 +3,7 @@ title: "Pillar: Trust"
 excerpt: "Trust measures whether a system does exactly what it claims and nothing more. A trusted system is predictable, honest, and invisible in daily work."
 header:
   teaser: /assets/images/metronome.png
-tags: [boringops, trust, reliability, security, predictability]
+tags: [pillars, reliability,operations]
 layout: single
 author: Dan Zrobok
 date: 2025-08-08

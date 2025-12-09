@@ -4,7 +4,7 @@ date: 2025-11-30
 author: Dan Zrobok
 header:
   teaser: /assets/images/metronome.png
-tags: [boringops, cloud, cost, complexity, vendors]
+tags: [cloud, cost, complexity]
 excerpt: "You threw out a $500 bathtub and ended up in a communal shower where the faucet, soap, water, and air are all billable events."
 layout: single
 ---

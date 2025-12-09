@@ -5,7 +5,7 @@ author: Dan Zrobok
 header:
   teaser: /assets/images/metronome.png
 tags: [operations, anti-patterns, efficiency]
-excerpt: "In BoringOps, excitement is a symptom. It reveals an architecture held together by improvisation, adrenaline, and luck. Calm systems come from design, not drama."
+excerpt: "Excitement is not random. It emerges from predictable dysfunction. If your team is always busy but nothing ships, you're paying operational debt interest."
 layout: single
 ---
 

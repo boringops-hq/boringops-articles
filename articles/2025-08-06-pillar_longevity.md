@@ -1,6 +1,6 @@
 ---
 title: "Pillar: Longevity"
-excerpt: "Longevity keeps you from rebuilding the same system every few years and calling it progress."
+excerpt: "Longevity keeps you from rebuilding the same system every few years and calling it progress. The fastest way to create legacy is believing something is temporary."
 header:
   teaser: /assets/images/metronome.png
 tags: [pillars, architecture, cost]

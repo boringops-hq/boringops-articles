@@ -1,6 +1,6 @@
 ---
 title: "Boring Is Earned: The Six Stages of Operational Maturity."
-excerpt: "Every new technology must pass through the six stages of maturity, from Ignition to Friction to Stabilization. Boring is not the end of innovation. It is the inevitable destination of mastery."
+excerpt: "Every new technology must pass through six stages, from Ignition to Boring. Boring is not the end of innovation. It's the inevitable destination of mastery."
 header:
   overlay_image: /assets/images/chaos_to_boring.png
   overlay_excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: "Pillar: Standards"
-excerpt: "Inconsistency is the silent killer of engineering velocity. Standards eliminate variance, reduce cognitive debt, and turn chaos into predictable execution."
+excerpt: "Inconsistency is the silent killer of engineering velocity. Standards eliminate variance and turn chaos into predictable execution."
 header:
   teaser: /assets/images/metronome.png
 tags: [pillars, operations, culture]

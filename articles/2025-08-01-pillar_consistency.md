@@ -1,6 +1,6 @@
 ---
 title: "Pillar: Consistency"
-excerpt: "Consistency is the foundation of boring infrastructure. Predictability breeds trust, and trust enables speed."
+excerpt: "Predictable behavior removes fear. Systems that behave the same way every time enable speed without hesitation."
 header:
   teaser: /assets/images/metronome.png
 tags: [pillars, infrastructure, operations]

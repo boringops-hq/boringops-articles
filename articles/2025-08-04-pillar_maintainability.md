@@ -1,6 +1,6 @@
 ---
 title: "Pillar: Maintainability"
-excerpt: "Maintainability is the difference between a system that ages and a system that decays. It is the discipline that protects reliability from collapsing under confusion, turnover, and time."
+excerpt: "Maintainability is the difference between a system that ages and a system that decays. If everyone owns it, no one maintains it."
 header:
   teaser: /assets/images/metronome.png
 tags: [pillars, operations, debt]

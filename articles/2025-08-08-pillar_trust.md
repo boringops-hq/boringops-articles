@@ -1,6 +1,6 @@
 ---
 title: "Pillar: Trust"
-excerpt: "Trust measures whether a system does exactly what it claims and nothing more. A trusted system is predictable, honest, and invisible in daily work."
+excerpt: "Trust measures whether a system does exactly what it claims and nothing more. A system you don't trust is a system you won't touch."
 header:
   teaser: /assets/images/metronome.png
 tags: [pillars, reliability,operations]

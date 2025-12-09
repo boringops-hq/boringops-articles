@@ -1,6 +1,6 @@
 ---
 title: "Pillar: Simplicity"
-excerpt: "Simplicity is the discipline that makes systems operable when everything else goes wrong."
+excerpt: "Simplicity removes everything that makes a system harder to understand, repair, and trust. If you can't sketch it on a napkin, it's too complex."
 header:
   teaser: /assets/images/metronome.png
 tags: [pillars, complexity, architecture]

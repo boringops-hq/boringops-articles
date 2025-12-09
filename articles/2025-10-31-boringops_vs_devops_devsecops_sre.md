@@ -1,6 +1,6 @@
 ---
 title: "BoringOps vs. DevOps, DevSecOps, and SRE: The Quiet Revolution"
-excerpt: "DevOps promised speed. SRE promised reliability. What we got was **agile theater**, cognitive overload, and endless reinvention. BoringOps is the counter-movement that rejects the toil to return focus to **actually** building the business."
+excerpt: "DevOps promised speed. SRE promised reliability. What we got was agile theater and endless reinvention. BoringOps rejects the toil and returns focus to building the business."
 header:
   teaser: /assets/images/metronome.png
 tags: [culture, infrastructure, efficiency]

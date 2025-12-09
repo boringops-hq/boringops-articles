@@ -1,6 +1,6 @@
 ---
 title: "Pillar: Resilience"
-excerpt: "Resilience is not about avoiding failure. It is about making failure uneventful. A resilient system absorbs reality, recovers quietly, and refuses to turn problems into drama."
+excerpt: "Resilience makes failure uneventful. If your recovery story is exciting, you don't have resilience. You have luck."
 header:
   teaser: /assets/images/metronome.png
 tags: [pillars, architecture, reliability]

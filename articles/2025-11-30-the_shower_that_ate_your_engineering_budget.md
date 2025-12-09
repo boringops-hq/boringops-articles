@@ -5,7 +5,7 @@ author: Dan Zrobok
 header:
   teaser: /assets/images/metronome.png
 tags: [cloud, cost, complexity]
-excerpt: "You threw out a $500 bathtub and ended up in a communal shower where the faucet, soap, water, and air are all billable events."
+excerpt: "You threw out a $500 bathtub and ended up in a communal shower where the faucet, soap, water, and air are all billable events. The vendor didn't upsell you. You upsold yourself."
 layout: single
 ---
 Most places toss the baby out with the bathwater, only to realize the water’s gone, the baby’s grown up, and a vendor stole the bathtub.

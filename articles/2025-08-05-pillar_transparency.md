@@ -1,6 +1,6 @@
 ---
 title: "Pillar: Transparency"
-excerpt: "Transparency turns systems from mysteries into machines. It removes ambiguity, shrinks incidents, and delivers truth at the speed of failure."
+excerpt: "Transparency turns systems from mysteries into machines. If your system can't explain itself, you'll invent stories. Those stories will be wrong."
 header:
   teaser: /assets/images/metronome.png
 tags: [pillars,operations, debugging]

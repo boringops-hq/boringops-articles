@@ -39,12 +39,11 @@ Six months later, deployments are bespoke rituals, configuration lives in Slack 
 This is not malice. This is what happens when urgency is allowed to outrank integrity. Drift is the default. Stewardship is the counterforce.
 
 
-
 ## What the Steward Actually Does
 
 The steward defends long-term integrity from short-term pressure.
 
-They prevent local optimization from becoming global chaos. They translate the cost of deviation into terms leadership understands. They hold the line when urgency demands "just this once." They ensure exceptions remain rare, temporary, and owned.
+Local optimizations must not become global chaos. The cost of deviation must be translated into terms leadership understands. When urgency demands "just this once," someone must hold the line. Exceptions must remain rare, temporary, and owned.
 
 Stewards do not design systems. They protect systems from erosion. They are not blockers. They are custodians of boring.
 

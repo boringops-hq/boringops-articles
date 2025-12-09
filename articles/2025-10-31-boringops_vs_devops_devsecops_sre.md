@@ -50,8 +50,7 @@ The discipline built to eliminate toil ended up **actively manufacturing** new f
 
 ## When Movements Lose the Plot
 
-DevOps, DevSecOps, and SRE were all created to reduce friction.  
-Instead, they accumulated it.
+DevOps, DevSecOps, and SRE were all created to reduce friction. Instead, they accumulated it.
 
 Companies measured maturity by checklists instead of outcomes. They created more process to govern the existing process. They treated operational work like a stage play: tickets, ceremonies, dashboards, standups, grooming, triage calls, more dashboards.
 
@@ -88,6 +87,7 @@ This is not stepping backward. It is growing up.
 The excitement of the early movements was necessary to break inertia. But nobody wants to live in that excitement forever. The end state of operational maturity is not constant reinvention. It is calm.
 
 **BoringOps is the end of transformation fatigue.**  
+
 It is what happens when we finally deliver the original promise: reliable systems, predictable days, and teams free to build the business instead of managing the elaborate ceremony around it.
 
 ---
